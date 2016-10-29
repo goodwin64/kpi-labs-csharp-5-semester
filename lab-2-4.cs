@@ -27,13 +27,13 @@ public class Lab4Class
     }
 
     static void Lab() {
-        // string[] fromConsole = Console.ReadLine().Split(' ');      // like in task
-        string[] fromConsole =
-        { "23", "0", "45", "-5", "12", "0", "-2", "30", "0", "64" };  // to save time
+        string[] fromConsole = Console.ReadLine().Split(' ');      // like in task
+        /*string[] fromConsole =
+        { "23", "0", "45", "-5", "12", "0", "-2", "30", "0", "64" };  // in case you wanna save time
         foreach (var item in fromConsole) {
             Console.Write(item.ToString() + " ");
         }
-        Console.WriteLine();
+        Console.WriteLine();*/
 
         int[] filteredArr = Array
                                 .ConvertAll(fromConsole, int.Parse)

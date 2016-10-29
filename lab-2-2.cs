@@ -45,7 +45,7 @@ public class Lab2Class
         int callDuration;
         if (!Int32.TryParse(Console.ReadLine(), out callDuration)
             || callDuration < 0) {
-            Console.WriteLine("Error! The entered hole radius is invalid.");
+            Console.WriteLine("Error! The entered minutes amount is invalid.");
             return;
         }
         
