@@ -1,0 +1,9 @@
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\bin\Debug\Lab2_WinForms_Donchenko.exe.config
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\bin\Debug\Lab2_WinForms_Donchenko.exe
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\bin\Debug\Lab2_WinForms_Donchenko.pdb
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\obj\Debug\Lab2_WinForms_Donchenko.csprojResolveAssemblyReference.cache
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\obj\Debug\Lab2_WinForms_Donchenko.Form1.resources
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\obj\Debug\Lab2_WinForms_Donchenko.Properties.Resources.resources
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\obj\Debug\Lab2_WinForms_Donchenko.csproj.GenerateResource.Cache
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\obj\Debug\Lab2_WinForms_Donchenko.exe
+D:\Development\temp\Lab2_WinForms_Donchenko\Lab2_WinForms_Donchenko\obj\Debug\Lab2_WinForms_Donchenko.pdb
